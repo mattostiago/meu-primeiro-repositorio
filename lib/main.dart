@@ -11,7 +11,8 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       //ativando o teste com github online
-      title: 'Alterando para teste - branch test4',
+      //branch desenvo criada
+      title: 'Alterando para teste - branch desenvolvimento criada',
       theme: ThemeData(
         //
         // Try running your application with "flutter run". You'll see the
