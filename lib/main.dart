@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Alterando para teste',
+      title: 'Alterando para teste - branch test',
       theme: ThemeData(
         //
         // Try running your application with "flutter run". You'll see the
